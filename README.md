@@ -25,7 +25,7 @@ The workflow is deliberately **evidence-grounded**: candidate facts must come fr
 
 ### Using the Streamlit App
 
-**Streamlit App UI link**: Click here
+**Streamlit App UI link**: [Click here](https://ai-powered-resume-screening-assistant.streamlit.app/)
 
 1. **Paste the Job Description** e.g. a Data scientist job description in the input box at the top of the application.
 2. Choose one of the two workflows:
